@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:kmlx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+<Document>
+	<Style id="point">
+		<IconStyle>
+			<scale>0.9</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Waypoints</name>
+        <Placemark>
+			        <name>Middle Palisade</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-118.469096,37.07021</coordinates>
+			        </Point>
+		        </Placemark>
+                 <Placemark>
+			        <name>Mount Tyndall</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-118.336968,36.6556</coordinates>
+			        </Point>
+		        </Placemark>
+                 <Placemark>
+			        <name>Mount Langley</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-118.239526,36.523449</coordinates>
+			        </Point>
+		        </Placemark>
+                 <Placemark>
+			        <name>Split Mountain</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-118.422392,37.020903</coordinates>
+			        </Point>
+		        </Placemark>
+                 <Placemark>
+			        <name>Mount Russell</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-118.290796,36.590085</coordinates>
+			        </Point>
+		        </Placemark>
+                 <Placemark>
+			        <name>Mount Sill</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-118.503212,37.095968</coordinates>
+			        </Point>
+		        </Placemark>
+                 <Placemark>
+			        <name>Mount Shasta</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-122.194926,41.408982</coordinates>
+			        </Point>
+		        </Placemark>
+                 <Placemark>
+			        <name>North Palisade</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-118.514467,37.09419</coordinates>
+			        </Point>
+		        </Placemark>
+                 <Placemark>
+			        <name>White Mountain Peak</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-118.255718,37.634144</coordinates>
+			        </Point>
+		        </Placemark>
+                 <Placemark>
+			        <name>Mount Williamson</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-118.311094,36.655936</coordinates>
+			        </Point>
+		        </Placemark>
+                 <Placemark>
+			        <name>Mount Whitney</name>
+			        <Style>
+				        <IconStyle>
+					        <scale>0.9</scale>
+					        <Icon>
+						        <href>http://maps.google.com/mapfiles/kml/pushpin/blue-pushpin.png</href>
+					        </Icon>
+				        </IconStyle>
+			        </Style>
+			        <Point>
+				        <extrude>0</extrude>
+				        <altitudeMode>clampToGround</altitudeMode>
+				        <coordinates>-118.29239,36.57855</coordinates>
+			        </Point>
+		        </Placemark>
+                
+    </Folder>
+</Document>
+</kml>
